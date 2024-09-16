@@ -29,7 +29,7 @@ I have a strong interest in AI I guess lol .
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Attendance](https://github.com/TrishankV/Attendance-Tracker/)  
+- 🔭 I’m currently working on [Portflio](https://github.com/TrishankV/Attendance-Tracker/)  
   
 
 - 🌱 I’m currently learning Swift and Xcode  
@@ -99,5 +99,4 @@ I have a strong interest in AI I guess lol .
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
