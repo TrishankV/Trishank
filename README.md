@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 
-<h2>https://www.trish-portfolio.netlify.app</h2>
+<h2>https://trish-portfolio.netlify.app</h2>
 
 
 
